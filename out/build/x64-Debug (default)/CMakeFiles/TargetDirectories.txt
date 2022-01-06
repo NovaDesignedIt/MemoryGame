@@ -1,0 +1,3 @@
+C:/Users/novac/source/repos/finalProject_game/out/build/x64-Debug (default)/CMakeFiles/finalProject_game.dir
+C:/Users/novac/source/repos/finalProject_game/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/novac/source/repos/finalProject_game/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

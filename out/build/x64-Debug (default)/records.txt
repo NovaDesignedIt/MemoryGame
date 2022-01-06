@@ -1,0 +1,10 @@
+userx 0
+meech 10
+noname 19
+noname 19
+noname 19
+noname 19
+tomcat 20
+john 40
+mathew 60
+ricky 70
